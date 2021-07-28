@@ -29,7 +29,7 @@
             <li><a href="news.html">NEWS &amp; REVIEWS</a></li>
             
             <li><a href="gallery.html">GALLERY</a></li>
-          <li><a href="http://blog.mysteryclub.co.uk/">BLOG</a></li>
+          <li><a href="/blog/page01.html">BLOG</a></li>
         </ul>
         
         
